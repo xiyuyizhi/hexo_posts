@@ -1,6 +1,6 @@
 ---
 title: angular-directive
-date: 2017-10-06 18:16:02
+date: 2016-10-06 18:16:02
 tags: angular
 ---
 

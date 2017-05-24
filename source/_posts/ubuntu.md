@@ -128,6 +128,10 @@ esc退出insert
 
      bower不能工作问题解决
      bower install -g -allow-root
+
+     使用阿里仓库
+     alias cnpm='npm --registry=https://registry.npm.taobao.org'
+
     ```
 
 
